@@ -1,6 +1,7 @@
 # Data-Driven-Strategies-for-Optimizing-Term-Deposit-Sales
 
-Subject: Data Mining Principles
+#  Subject: Data Mining Principles
+
 •	Performed data mining on Portuguese banking data using techniques such as preprocessing, exploration, feature engineering, and modeling to predict term deposit subscription rates accurately. 
 •	Developed actionable recommendations to improve marketing campaigns for the bank, potentially enhancing customer satisfaction and increasing subscription rates.
 
